@@ -1,8 +1,8 @@
 - 👋 Hola , soy @Overpool
 - 👀 Estoy interesado en colaborar 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Actualmente estoy aprendiendo a programar 
+- 💞️ Estoy buscando colaborar en un proyecto 
+- 📫 Correo: luisfigueroaarce@gmail.com 
 
 <!---
 Overpool/Overpool is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
